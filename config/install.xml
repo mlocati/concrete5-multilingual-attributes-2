@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+	<attributetypes>
+		<attributetype handle="multilingual_text" name="Multilingual Text" package="multilingual_attributes_i_i">
+			<categories>
+				<category handle="collection"/>
+				<category handle="user"/>
+				<category handle="file"/>
+				<category handle="site"/>
+			</categories>
+		</attributetype>
+		<!--
+		<attributetype handle="multilingual_textarea" name="Multilingual Text Area" package="multilingual_attributes_i_i">
+			<categories>
+				<category handle="collection"/>
+				<category handle="user"/>
+				<category handle="file"/>
+				<category handle="site"/>
+			</categories>
+		</attributetype>
+		<attributetype handle="multilingual_boolean" name="Multilingual Checkbox" package="multilingual_attributes_i_i">
+			<categories>
+				<category handle="collection"/>
+				<category handle="user"/>
+				<category handle="file"/>
+				<category handle="site"/>
+			</categories>
+		</attributetype>
+		<attributetype handle="multilingual_image_file" name="Multilingual Image/File" package="multilingual_attributes_i_i">
+			<categories>
+				<category handle="collection"/>
+				<category handle="site"/>
+			</categories>
+		</attributetype>
+		<attributetype handle="multilingual_number" name="Multilingual Number" package="multilingual_attributes_i_i">
+			<categories>
+				<category handle="collection"/>
+				<category handle="user"/>
+				<category handle="file"/>
+				<category handle="site"/>
+			</categories>
+		</attributetype>
+		<attributetype handle="multilingual_select" name="Multilingual Select" package="multilingual_attributes_i_i">
+			<categories>
+				<category handle="collection"/>
+				<category handle="user"/>
+				<category handle="file"/>
+				<category handle="site"/>
+			</categories>
+		</attributetype>
+		-->
+	</attributetypes>
+</concrete5-cif>
